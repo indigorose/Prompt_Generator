@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-The purpose of this project is to explore the functionality of Vite to set up projects and React functionality particularly usestates.
+The purpose of this project is to explore the functionality of Vite to set up projects and React functionality particularly useStates.
 
 ### Continued development
 
