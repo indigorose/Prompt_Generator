@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Code](https://github.com/indigorose/Prompt_Generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Web Developer Prompt Generator](https://indigorose.github.io/Prompt_Generator/)
 
 ## My process
 
