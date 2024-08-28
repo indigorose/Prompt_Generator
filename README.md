@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Prompt Generator site](./public/Screenshot%202024-08-28%20at%2016.02.42.png)
+![Prompt Generator site](./prompt_generator/public/Screenshot%202024-08-28%20at%2016.02.42.png)
 
 ### Links
 
